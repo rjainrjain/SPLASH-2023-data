@@ -1,0 +1,133 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" penrose="0"><penrose><croppedViewBox>0.07287312200168117 0.00006454625776086687 388.11762145409085 357.333159621432</croppedViewBox></penrose><g><filter id="`Arc_v1_v2`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 68.34253064328718 9.483673915123035 L 56.30042635301797 5.612279294903374 L 68.25694655736513 1.4841324169175607 Z "></path><title>`Arc_v1_v2`.pointer</title></g><g><filter id="`Arc_v1_v2`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 119.52856326567961 5.000064546257761 Q 62.29934380674908 5.483859824656321 5.072873122001681 6.224582929182645"></path><title>`Arc_v1_v2`.arrow</title></g><circle fill="#000000" fill-opacity="1" cx="5.072873122001681" cy="6.224582929182645" stroke="none" r="5"><title>`v2`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 14.602104515106078, 9.256702494218587)" style="font:     18px serif;" x="14.602104515106078" y="9.256702494218587" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v2`.text</title></text><g><filter id="`Arc_v8_v9`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 241.14536481391477 321.81525124036773 L 250.34408972219114 330.4976145264329 L 237.7756918239309 329.0709588425466 Z "></path><title>`Arc_v8_v9`.pointer</title></g><g><filter id="`Arc_v8_v9`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 192.6921122818806 303.9021061823133 Q 244.97076776179557 327.8231108027524 296.9758312044703 352.33322416768976"></path><title>`Arc_v8_v9`.arrow</title></g><circle fill="#000000" fill-opacity="1" cx="296.9758312044703" cy="352.33322416768976" stroke="none" r="5"><title>`v9`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 289.7176060227193, 345.4544039773523)" style="font:     18px serif;" x="289.7176060227193" y="345.4544039773523" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v9`.text</title></text><circle fill="#000000" fill-opacity="1" cx="119.52856326567961" cy="5.000064546257761" stroke="none" r="5"><title>`v1`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 123.06652010755076, 14.353291870826382)" style="font:     18px serif;" x="123.06652010755076" y="14.353291870826382" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v1`.text</title></text><g><filter id="`Arc_v3_v4`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 304.6429698928044 75.39450835659936 L 292.2922224500145 72.66338958687136 L 303.8114916660832 67.43783613697983 Z "></path><title>`Arc_v3_v4`.pointer</title></g><g><filter id="`Arc_v3_v4`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 355.35789685507314 66.07170691793996 Q 298.2598083436528 72.0410446732153 241.16119375320926 78.0053482156688"></path><title>`Arc_v3_v4`.arrow</title></g><g><filter id="`Arc_v4_v5`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 201.28534086996513 110.91670196349332 L 189.16650555182977 114.54076083840422 L 196.68713848139151 104.37021254759429 Z "></path><title>`Arc_v4_v5`.pointer</title></g><g><filter id="`Arc_v4_v5`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 241.16119375320926 78.0053482156688 Q 194.08327205438462 111.10201779821604 146.97759084211782 144.15916598836196"></path><title>`Arc_v4_v5`.arrow</title></g><circle fill="#000000" fill-opacity="1" cx="241.16119375320926" cy="78.0053482156688" stroke="none" r="5"><title>`v4`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 244.0501051966772, 87.57896773347919)" style="font:     18px serif;" x="244.0501051966772" y="87.57896773347919" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v4`.text</title></text><circle fill="#000000" fill-opacity="1" cx="355.35789685507314" cy="66.07170691793996" stroke="none" r="5"><title>`v3`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 345.8438265330309, 62.9923456355902)" style="font:     18px serif;" x="345.8438265330309" y="62.9923456355902" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v3`.text</title></text><g><filter id="`Arc_v6_v7`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 332.06424149230867 218.00480091493097 L 319.8767742383595 214.61870964972866 L 331.6584028006402 210.01510230952098 Z "></path><title>`Arc_v6_v7`.pointer</title></g><g><filter id="`Arc_v6_v7`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 383.19049457609253 211.43732643720196 Q 325.86721479920413 214.2797710860104 268.5509576666629 217.26046970837575"></path><title>`Arc_v6_v7`.arrow</title></g><g><filter id="`Arc_v7_v8`.pointer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="#000000" fill-opacity="1" stroke="none" d="M 237.5762766341004 258.6957015220323 L 226.66193391891397 265.08922131222016 L 231.5572962169504 253.42579985095804 Z "></path><title>`Arc_v7_v8`.pointer</title></g><g><filter id="`Arc_v7_v8`.arrow-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 268.5509576666629 217.26046970837575 Q 230.60716547823506 260.56870677279903 192.6921122818806 303.9021061823133"></path><title>`Arc_v7_v8`.arrow</title></g><circle fill="#000000" fill-opacity="1" cx="268.5509576666629" cy="217.26046970837575" stroke="none" r="5"><title>`v7`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 259.64101733952475, 212.7203195603259)" style="font:     18px serif;" x="259.64101733952475" y="212.7203195603259" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v7`.text</title></text><circle fill="#000000" fill-opacity="1" cx="146.97759084211782" cy="144.15916598836196" stroke="none" r="5"><title>`v5`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 156.97758857491505, 144.15243218923328)" style="font:     18px serif;" x="156.97758857491505" y="144.15243218923328" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v5`.text</title></text><circle fill="#000000" fill-opacity="1" cx="192.6921122818806" cy="303.9021061823133" stroke="none" r="5"><title>`v8`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 196.3870622515773, 294.6097789861025)" style="font:     18px serif;" x="196.3870622515773" y="294.6097789861025" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v8`.text</title></text><circle fill="#000000" fill-opacity="1" cx="383.19049457609253" cy="211.43732643720196" stroke="none" r="5"><title>`v6`.dot</title></circle><text fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="4" transform="rotate(0, 381.9573230697548, 201.51365332509488)" style="font:     18px serif;" x="381.9573230697548" y="201.51365332509488" width="0" height="0" font-size-adjust="" alignment-baseline="alphabetic" dominant-baseline="alphabetic" ascent="0" descent="0" text-anchor="middle" visibility="" paint-order="stroke"><title>`v6`.text</title></text></svg>

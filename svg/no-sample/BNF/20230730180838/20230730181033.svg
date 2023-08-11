@@ -1,0 +1,100 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" penrose="0"><penrose><croppedViewBox>145.4933152421715 0.10733048366148523 330.9595204087422 312.43985593479067</croppedViewBox></penrose><g style="solid"><line x1="436.45283219771113" y1="161.96027773579385" x2="239.3569434045233" y2="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleABC`.side1</title></g><g style="solid"><line x1="382.5892074885372" y1="282.54718397952604" x2="436.45283219771113" y2="161.96027773579385" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleDAB`.side1</title></g><g style="solid"><line x1="436.45283219771113" y1="161.96027773579385" x2="239.3569434045233" y2="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleDAB`.side2</title></g><g style="solid"><line x1="382.5892074885372" y1="282.54718397952604" x2="436.45283219771113" y2="161.96027773579385" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`DA`.icon</title></g><g style="solid"><line x1="436.45283219771113" y1="161.96027773579385" x2="239.3569434045233" y2="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`AB`.icon</title></g><g style="solid"><line x1="382.5892074885372" y1="282.54718397952604" x2="436.45283219771113" y2="161.96027773579385" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleCDA`.side2</title></g><circle fill="#000000" fill-opacity="1" cx="436.45283219771113" cy="161.96027773579385" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`A`.icon</title></circle><g style="solid"><line x1="239.3569434045233" y1="30.10733292258763" x2="185.493318695374" y2="150.69423916623902" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleABC`.side2</title></g><g style="solid"><line x1="239.3569434045233" y1="30.10733292258763" x2="185.493318695374" y2="150.69423916623902" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleBCD`.side1</title></g><g style="solid"><line x1="239.3569434045233" y1="30.10733292258763" x2="185.493318695374" y2="150.69423916623902" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`BC`.icon</title></g><circle fill="#000000" fill-opacity="1" cx="239.3569434045233" cy="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`B`.icon</title></circle><g style="solid"><line x1="185.493318695374" y1="150.69423916623902" x2="382.5892074885372" y2="282.54718397952604" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`CD`.icon</title></g><g style="solid"><line x1="185.493318695374" y1="150.69423916623902" x2="382.5892074885372" y2="282.54718397952604" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleBCD`.side2</title></g><g style="solid"><line x1="185.493318695374" y1="150.69423916623902" x2="382.5892074885372" y2="282.54718397952604" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleCDA`.side1</title></g><circle fill="#000000" fill-opacity="1" cx="185.493318695374" cy="150.69423916623902" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`C`.icon</title></circle><circle fill="#000000" fill-opacity="1" cx="382.5892074885372" cy="282.54718397952604" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`D`.icon</title></circle><g transform="rotate(0, 455.2481300864729, 146.52886266199533)translate(447.7481300864729, 139.36886266199534)"><title>`A`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15" height="14.32" role="img" focusable="false" viewBox="0 -716 750 716"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D434" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"></path></g></g></g></svg></g><g transform="rotate(0, 247.86831977601594, 9.307682641334623)translate(240.27831977601593, 2.4776826413346225)"><title>`B`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15.18" height="13.66" role="img" focusable="false" viewBox="0 -683 759 683"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"></path></g></g></g></svg></g><g transform="rotate(0, 166.0770798819768, 165.47267190203104)translate(158.4770798819768, 158.20267190203103)"><title>`C`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15.2" height="14.54" role="img" focusable="false" viewBox="0 -705 760 727"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path></g></g></g></svg></g><g transform="rotate(0, 374.6454334946819, 303.37718623518964)translate(366.36543349468195, 296.54718623518966)"><title>`D`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="16.56" height="13.66" role="img" focusable="false" viewBox="0 -683 828 683"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D437" d="M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z"></path></g></g></g></svg></g><g><filter id="`BC`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 200.23579359936633 93.17026773854758 L 218.49684796248056 101.32709512261476 M 206.35341413741673 79.47447696621191 L 224.61446850053096 87.6313043502791"></path><title>`BC`.tick</title></g><g><filter id="`DA`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 421.71035729370624 219.48424916352474 L 403.44930293059144 211.32742177945897 M 415.5927367556569 233.1800399358609 L 397.3316823925421 225.02321255179513"></path><title>`DA`.tick</title></g><g><filter id="`quadABCD`.labelContainer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 436.45283219771113 161.96027773579385 L 239.3569434045233 30.10733292258763 L 185.493318695374 150.69423916623902 L 382.5892074885372 282.54718397952604 Z "></path><title>`quadABCD`.labelContainer</title></g><g><filter id="`AB`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 343.4651861480817 87.72218251179498 L 332.3445894541527 104.34542814658647"></path><title>`AB`.tick</title></g><g><filter id="`CD`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 278.4809647449882 224.93233439027637 L 289.60156143892294 208.3090887554887"></path><title>`CD`.tick</title></g><g style="solid"><line x1="436.45283219771113" y1="161.96027773579385" x2="239.3569434045233" y2="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`quadABCD`.side1</title></g><g style="solid"><line x1="185.493318695374" y1="150.69423916623902" x2="239.3569434045233" y2="30.10733292258763" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`quadABCD`.side2</title></g><g style="solid"><line x1="382.5892074885372" y1="282.54718397952604" x2="185.493318695374" y2="150.69423916623902" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`quadABCD`.side3</title></g><g style="solid"><line x1="436.45283219771113" y1="161.96027773579385" x2="382.5892074885372" y2="282.54718397952604" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`quadABCD`.side4</title></g><g><filter id="`angleCDA`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 357.6543390363557 265.86628893862394 A 30 30 0 0 1 394.8244485646358 255.15560243485373"></path><title>`angleCDA`.mark</title></g><g><filter id="`angleABC`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 264.29181185671047 46.78822796348118 A 30 30 0 0 1 227.12170232842251 57.49891446725897"></path><title>`angleABC`.mark</title></g><g><filter id="`angleBCD`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 197.72855977147478 123.3026576215677 A 30 30 0 0 1 210.4281871475555 167.3751342071411 M 201.80697337274512 114.17213064320629 A 40 40 0 0 1 218.73980991418412 172.93543252014757"></path><title>`angleBCD`.mark</title></g><g><filter id="`angleDAB`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 424.21759112161254 189.35185928046616 A 30 30 0 0 1 411.51796374552396 145.2793826949003 M 420.1391775203429 198.4823862588279 A 40 40 0 0 1 403.2063409788934 139.71908438189664"></path><title>`angleDAB`.mark</title></g></svg>

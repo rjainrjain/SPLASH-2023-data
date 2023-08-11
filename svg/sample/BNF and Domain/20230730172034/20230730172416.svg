@@ -1,0 +1,78 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" penrose="0"><penrose><croppedViewBox>114.29663008285803 151.3549495705394 346.213876229523 305.1199905300399</croppedViewBox></penrose><g style="solid"><line x1="435.4818451880186" y1="242.60291250301114" x2="144.29663086678158" y2="362.8173133200657" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleABC`.side1</title></g><g style="solid"><line x1="192.75173997999707" y1="426.4749395038699" x2="435.4818451880186" y2="242.60291250301114" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleCDA`.side2</title></g><g style="solid"><line x1="192.75173997999707" y1="426.4749395038699" x2="435.4818451880186" y2="242.60291250301114" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`segmentDA`.icon</title></g><g style="solid"><line x1="435.4818451880186" y1="242.60291250301114" x2="144.29663086678158" y2="362.8173133200657" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`segmentAB`.icon</title></g><circle fill="#000000" fill-opacity="1" cx="435.4818451880186" cy="242.60291250301114" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`A`.icon</title></circle><g style="solid"><line x1="144.29663086678158" y1="362.8173133200657" x2="386.168849237853" y2="177.81824233036588" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleABC`.side2</title></g><g style="solid"><line x1="144.29663086678158" y1="362.8173133200657" x2="386.168849237853" y2="177.81824233036588" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`segmentBC`.icon</title></g><circle fill="#000000" fill-opacity="1" cx="144.29663086678158" cy="362.8173133200657" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`B`.icon</title></circle><g style="solid"><line x1="386.168849237853" y1="177.81824233036588" x2="192.75173997999707" y2="426.4749395038699" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`segmentCD`.icon</title></g><g style="solid"><line x1="386.168849237853" y1="177.81824233036588" x2="192.75173997999707" y2="426.4749395038699" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`angleCDA`.side1</title></g><circle fill="#000000" fill-opacity="1" cx="386.168849237853" cy="177.81824233036588" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`C`.icon</title></circle><g transform="rotate(0, 453.01050631238104, 259.5315341711983)translate(445.51050631238104, 252.3715341711983)"><title>`A`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15" height="14.32" role="img" focusable="false" viewBox="0 -716 750 716"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D434" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"></path></g></g></g></svg></g><g transform="rotate(0, 127.78328961635657, 345.1996354132522)translate(120.19328961635657, 338.36963541325224)"><title>`B`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15.18" height="13.66" role="img" focusable="false" viewBox="0 -683 759 683"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"></path></g></g></g></svg></g><circle fill="#000000" fill-opacity="1" cx="192.75173997999707" cy="426.4749395038699" stroke="#000000" stroke-opacity="1" stroke-width="0" r="4"><title>`D`.icon</title></circle><g transform="rotate(0, 371.2316084120294, 158.6249495705394)translate(363.6316084120294, 151.3549495705394)"><title>`C`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="15.2" height="14.54" role="img" focusable="false" viewBox="0 -705 760 727"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path></g></g></g></svg></g><g transform="rotate(0, 207.49198418374834, 445.72529612062044)translate(199.21198418374834, 438.89529612062046)"><title>`D`.text</title><svg style="font-size: 20px" xmlns="http://www.w3.org/2000/svg" width="16.56" height="13.66" role="img" focusable="false" viewBox="0 -683 828 683"><g stroke="none" fill="#000000" stroke-width="0" transform="scale(1,-1)" fill-opacity="1"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D437" d="M287 628Q287 635 230 637Q207 637 200 638T193 647Q193 655 197 667T204 682Q206 683 403 683Q570 682 590 682T630 676Q702 659 752 597T803 431Q803 275 696 151T444 3L430 1L236 0H125H72Q48 0 41 2T33 11Q33 13 36 25Q40 41 44 43T67 46Q94 46 127 49Q141 52 146 61Q149 65 218 339T287 628ZM703 469Q703 507 692 537T666 584T629 613T590 629T555 636Q553 636 541 636T512 636T479 637H436Q392 637 386 627Q384 623 313 339T242 52Q242 48 253 48T330 47Q335 47 349 47T373 46Q499 46 581 128Q617 164 640 212T683 339T703 469Z"></path></g></g></g></svg></g><g><filter id="`segmentBC`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 277.265259909418 273.7042886588197 L 265.11468489258885 257.81833572899006 M 265.35079521204574 282.8172199214415 L 253.20022019521662 266.9312669916119"></path><title>`segmentBC`.tick</title></g><g><filter id="`segmentDA`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 326.1334302835719 337.98136817943345 L 314.0568785170831 322.03907000258107 M 314.1767066509326 347.03878200430006 L 302.1001548844438 331.0964838274476"></path><title>`segmentDA`.tick</title></g><g><filter id="`parallelogramABCD`.labelContainer-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" d="M 435.4818451880186 242.60291250301114 L 144.29663086678158 362.8173133200657 L 386.168849237853 177.81824233036588 L 192.75173997999707 426.4749395038699 Z "></path><title>`parallelogramABCD`.labelContainer</title></g><g><filter id="`segmentAB`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 286.07320275930056 293.46685220527763 L 293.70527329549964 311.95337361779923"></path><title>`segmentAB`.tick</title></g><g><filter id="`segmentCD`.tick-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 281.56704122484615 296.00683972785856 L 297.35354799300393 308.2863421063773"></path><title>`segmentCD`.tick</title></g><g style="solid"><line x1="435.4818451880186" y1="242.60291250301114" x2="144.29663086678158" y2="362.8173133200657" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`parallelogramABCD`.side1</title></g><g style="solid"><line x1="386.168849237853" y1="177.81824233036588" x2="144.29663086678158" y2="362.8173133200657" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`parallelogramABCD`.side2</title></g><g style="solid"><line x1="192.75173997999707" y1="426.4749395038699" x2="386.168849237853" y2="177.81824233036588" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`parallelogramABCD`.side3</title></g><g style="solid"><line x1="435.4818451880186" y1="242.60291250301114" x2="192.75173997999707" y2="426.4749395038699" stroke="#000000" stroke-opacity="1" stroke-width="1.75"></line><title>`parallelogramABCD`.side4</title></g><g><filter id="`angleCDA`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 211.17099354777514 402.7951793516333 A 30 30 0 0 1 216.66518724527566 408.36011185413673"></path><title>`angleCDA`.mark</title></g><g><filter id="`angleABC`.mark-shadow" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"></feOffset>
+       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="4"></feGaussianBlur>
+       <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+       <feComponentTransfer>
+         <feFuncA type="linear" slope="0.5"></feFuncA>
+       </feComponentTransfer>
+       <feMerge>
+         <feMergeNode></feMergeNode>
+         <feMergeNode in="SourceGraphic"></feMergeNode>
+       </feMerge>
+    </filter><path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" d="M 172.02641298556395 351.369207515767 A 30 30 0 0 0 168.125560261526 344.591450794822"></path><title>`angleABC`.mark</title></g></svg>
