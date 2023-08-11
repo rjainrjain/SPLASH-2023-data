@@ -6,3 +6,5 @@ In the `svg` folder, see the `BNF` and `Domain` folders for the diagrams resulti
 
 
 That should be everything you need to replicate our results, as far as is possible with the unpredictability introduced by setting the temperature of GPT-4 to 0.7, as we did.
+
+-- Rijul Jain, Williams College
