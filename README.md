@@ -1,4 +1,4 @@
-This repository houses preliminary test results data for the poster "Generating Domain-Specific Programs for Diagram Authoring with Large Language Models", submitted to SPLASH 2023. 
+This repository houses preliminary test results data for the short paper "Generating Domain-Specific Programs for Diagram Authoring with Large Language Models", submitted to PLATEAU 2024, and the poster of the same title presented at SPLASH 2023. 
 
 In the `json` folder, see the `no-sample` folder for data for the prompt variations with a BNF-style grammar or with a Domain schema program and no standalone sample program; see the `sample` folder for data for the prompt variations with a BNF-style grammar or with a Domain schema program which include standalone sample programs.
 
